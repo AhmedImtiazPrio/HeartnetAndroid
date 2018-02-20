@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Feb 18 16:49:23 BDT 2018
+0.baseType=DIRECTORY
+0.base=/media/taufiq/Data/heart_sound/Android/android gui sample/app/build/intermediates/assets/debug
+0.path=license.xml
+0.set=ASSET
+count=1

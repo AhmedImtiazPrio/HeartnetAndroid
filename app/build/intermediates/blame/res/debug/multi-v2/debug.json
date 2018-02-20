@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/taufiq/Data/heart_sound/Android/android gui sample/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/media/taufiq/Data/heart_sound/Android/android gui sample/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "116,55",
+                        "endColumns": "56,60",
+                        "endOffsets": "168,111"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "139,196",
+                        "endColumns": "56,60",
+                        "endOffsets": "191,252"
+                    }
+                },
+                {
+                    "source": "/media/taufiq/Data/heart_sound/Android/android gui sample/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "8,8",
+                        "startOffsets": "71,25",
+                        "endColumns": "45,45",
+                        "endOffsets": "108,62"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,41",
+                        "endOffsets": "92,134"
+                    }
+                }
+            ]
+        }
+    ]
+}

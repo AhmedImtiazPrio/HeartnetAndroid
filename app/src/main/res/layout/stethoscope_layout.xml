@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mmm.healthcare.streamaudiosample.views.ConnectView xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+	<!-- Sender Stethoscope -->
+	<TextView
+		android:id="@+id/sender_label"
+		android:text="Sender Stethoscope: "
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+		
+	<Spinner
+		android:id="@+id/sender_spinner"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" /> 
+		
+	<Button
+		android:id="@+id/sender_connect_button"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Connect"
+		android:layout_margin="10dip" />
+		
+		
+	<!-- Receiver Stethoscope -->
+	<TextView
+		android:id="@+id/receiver_label"
+		android:text="Receiver Stethoscope: "
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+		
+	<Spinner
+		android:id="@+id/receiver_spinner"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content" />
+		
+	<Button
+		android:id="@+id/receiver_connect_button"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Connect"
+		android:layout_margin="10dip" />
+		
+	<Button
+		android:id="@+id/stream_button"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Start Streaming"
+		android:enabled="true"
+		android:layout_margin="10dip" />
+	
+</com.mmm.healthcare.streamaudiosample.views.ConnectView>
